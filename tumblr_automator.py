@@ -15,7 +15,7 @@ EMAIL_TO = "tumblr.email@tumblr.com"
 DIR_PICS = "pics"
 
 
-class TumblrPhotoUploader:
+class TumblrAutomator:
     """
     Use this class to upload pictures to your tumblr.
 
